@@ -1,1 +1,2 @@
-Identificador de Palabras Palindromas, Por Agustin Correnti
+Identificador de Palabras Palindromas, Por Correnti Reinoso Agustin Miguel
+
